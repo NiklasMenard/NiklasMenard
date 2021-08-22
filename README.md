@@ -1,6 +1,6 @@
-## 👋 Introduction
+## 👋 Greetings
 
-Hi, my name is **Niklas Menard**
+My name is **Niklas Menard**
 
 I am an web developer enthusiastic about programming and always striving to learn new technologies. 
 I have previously worked in finance, marketing as and sales, which give me a varied skillset that is not limited to only programming. 
