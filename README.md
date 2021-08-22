@@ -13,6 +13,8 @@ My strengths when problem solving are visualising and understanding concepts as 
 - TypeScript
 - Java
 - Python
+- Docker
+- AWS
 
 ## ⚡ Other info
 - Half American, Half Finnish
